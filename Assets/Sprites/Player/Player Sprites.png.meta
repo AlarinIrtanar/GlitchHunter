@@ -1,0 +1,4625 @@
+fileFormatVersion: 2
+guid: 1f3811c2e7e0d7a48b92369b159c5b0f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThrowGreenCanister1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 50
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c39de979b13c44b13626898591f14
+      internalID: 1520133979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinTurret3
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 308
+        width: 57
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d702a27a11f76f342bfaf578b428a20b
+      internalID: -1728649319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 984
+        width: 53
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99733318f126d8742a73e1ec2433ec96
+      internalID: -1304076494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldDown6
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 375
+        width: 47
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3965684b151814e409e40da7beb3c0e8
+      internalID: 1975678733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zNum6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 28
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a96f83bdb4589488d7738138d1015c
+      internalID: 1545294334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 86
+        width: 52
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee2615966327146be86b5a2bcae3f1
+      internalID: -1196036086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bees2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 636
+        width: 53
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2805e43c6a7a04fbb9668a26c6d1c7
+      internalID: 2053601307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowPulserElec1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 166
+        width: 49
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de68e52b9cc018940af9ca4a8ca935f6
+      internalID: -255241048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonGreen3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 911
+        width: 54
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e130a402b2de04b95e08b9266143f2
+      internalID: -1258266886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puppet1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 101
+        width: 51
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f8b1e43d70a146a3476b450e3b35d
+      internalID: -1906040378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonGreen7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 911
+        width: 80
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625bcea26dbbd064a85891c5f8437e1b
+      internalID: 1312797349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterMan
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 26
+        width: 35
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ed401c913db943a35c8e8479158c5
+      internalID: -61265694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRed1
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 241
+        width: 45
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f13a23ffdfe9d4ebeffdb38bf67cb3
+      internalID: -830047053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldLevel1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 373
+        width: 47
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d964b22e01d644c9df29459e7bde39
+      internalID: -2009592615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonGreen5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 911
+        width: 75
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e365ddc8c03423847b5fd8731ca846de
+      internalID: -1213824816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 449
+        width: 40
+        height: 27
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb9c0742e799344823b61f22e1fb47
+      internalID: 1756398884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmartGunRed4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 697
+        width: 67
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af7ad198133c74baf3c2d4ebbab078
+      internalID: 846941337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowPulserIce2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 167
+        width: 41
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a322eb68db7d7e4a9d8d44d1cb569ba
+      internalID: 1633324210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 560
+        width: 48
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe19a3c438c81643986ef722b73c5a0
+      internalID: -1426896195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bees3
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 636
+        width: 54
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e70001c0e349d4b814a46b64b3ad39
+      internalID: -1374135456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zNum5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 28
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b88f8d268935348bbb9fdf905eae95
+      internalID: 821975637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirShot5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 309
+        width: 78
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa31ef3322106438d2eaaf22266b93
+      internalID: -760809632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldLevel3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 373
+        width: 47
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1f0388d0bb27949b7ed7cfac95a698
+      internalID: -1849458896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirShot2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 309
+        width: 63
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a320890b6e3384a899d49c7e9732cd
+      internalID: -1771212883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmartGun4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 697
+        width: 67
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152c802dd9583e849be417088d92d0f7
+      internalID: 48339773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1053
+        width: 46
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dbe5e37b471c14a87bad204c0125b8
+      internalID: 748798035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRed7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 769
+        width: 80
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97886cebdc75dc489babb17fed0b3e5
+      internalID: 336940191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRed8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 769
+        width: 90
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b03134d2c5cc640b8e217bfe4a89f5
+      internalID: 1020298763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zNum8
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 28
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea3d6792a1bbea48885f1f14bf7a88f
+      internalID: -364229884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 636
+        width: 60
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e687f37d36a7c419ed615607b0f155
+      internalID: -507799639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmartGun1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 697
+        width: 60
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ade16d9439b5e4a82832acab49f495
+      internalID: -729674939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureMan
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 27
+        width: 35
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a92a06e0567e1d4ca7c75f06206d19d
+      internalID: 1854329124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRed2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 769
+        width: 54
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e579732eeeb5524aa364f71e12579f2
+      internalID: 1940269674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameMan
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 26
+        width: 35
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c3405603d799458b01a8f7034b168
+      internalID: 1321857758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmartGunSilver4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 697
+        width: 67
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d17fb8cad29f2439bf35a5fb3f5d03
+      internalID: 1946878111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mace5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 562
+        width: 45
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa2072231391fe4a813ef282c438de4
+      internalID: 133209061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRed9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 769
+        width: 91
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3c3e2ee5de3f249b7b6d69e3dea8bc
+      internalID: 1134918754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zUIFocus2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 36
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e836e80a5bed4a419566798b0bd8271
+      internalID: 1925798192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puppet2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 101
+        width: 48
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44d2b8809b6e343a34570b955efab5
+      internalID: -1070505330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonGreen8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 911
+        width: 90
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3530be39f4cea24b9890e6c818773ca
+      internalID: 867720905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zNum3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 45
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aabc5f5b294513468d02a0731bc76b5
+      internalID: -875877816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 102
+        width: 37
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bde91280b971de41a4722808cdb30ae
+      internalID: -1493285670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1052
+        width: 35
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e1170c35dab1445bc2f6025b8ba6b6
+      internalID: -1363493727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinTurret2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 309
+        width: 59
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7238351868954b9459f2c27d656e6a06
+      internalID: 1242622730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonGreen4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 911
+        width: 67
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2844162697521754db41061302d80e05
+      internalID: 1390326098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zUIFocus1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 36
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9279fe6a38691247afa27be683211dc
+      internalID: -918812763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlankThrow1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 983
+        width: 43
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5443dde6bd2924684e5e06a548d617
+      internalID: -1406401755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRed10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 769
+        width: 53
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9d0c4660faf3942ae0e9bca41c75fc
+      internalID: -1919450200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowTri-Bomb2
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 305
+        width: 40
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c71010471e8f654e899fee23952d119
+      internalID: 817681586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamethower2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 430
+        width: 51
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c12487774a0cc54f9a6b33d6dec3cc5
+      internalID: 1050901349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mace2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 562
+        width: 60
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc0ff328cc0661409a21d36a7368a07
+      internalID: -252042938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zNum2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 45
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102450ef13993174bb11ca8f2459f86d
+      internalID: 533251081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 636
+        width: 56
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5311ab085687bbf4daa85563780fa66a
+      internalID: -404695854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowCannonball2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 492
+        width: 39
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460300a9137907f419a128d3a0b44451
+      internalID: 1417571386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1053
+        width: 38
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd2b15a0c21efd4893fc0710a4c3bdf
+      internalID: 1816665014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldDown5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 374
+        width: 47
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7834fd702257aa94d9887eb1d28335fa
+      internalID: 390310645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonGreen10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 911
+        width: 53
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6592de8b43217b4478ec87fa232b6180
+      internalID: 455839507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRed5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 769
+        width: 75
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f31cb6dd298047b49e14a95730632
+      internalID: -1888347372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowMeteor1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 165
+        width: 52
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1177b7b0187c6e49af13d8989acc721
+      internalID: -582434476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirShot4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 309
+        width: 78
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977698b274b89754dbf7a75073f2c775
+      internalID: -900303956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1052
+        width: 35
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c245b768e804b624bafe2239dd9561fd
+      internalID: 1091660144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1052
+        width: 35
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1f43e30a22aa649a1567da31ff0aa5
+      internalID: 1292206062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1052
+        width: 31
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70915044a6d8e144a90fcf3e64f2ba6
+      internalID: 1225994961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1052
+        width: 46
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087fc8156115ad34b9c8b25cab567d43
+      internalID: -1320944005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1052
+        width: 44
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2178aeaa73d9f44be1bd5913aa4015
+      internalID: -777529429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1052
+        width: 72
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83abf6dac721a654a80e71aa5a7dc486
+      internalID: 228876259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1052
+        width: 72
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d005572ea4edb4444a44555e97deda13
+      internalID: 918524990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1052
+        width: 65
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781ea575000832943b0b136d68d1450b
+      internalID: 1325050938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1053
+        width: 35
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ee5694b862c1045ab0a6a44382c7f5
+      internalID: 1057183781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave4
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1053
+        width: 39
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b836a6962d8bb4b80ac204983fd291
+      internalID: 681861961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage1
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1054
+        width: 28
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737664f5f931d5a43b0cf834f698a4ec
+      internalID: -1664478492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage2
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1056
+        width: 28
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29acb2b3fd39b1841861845eb98d29b9
+      internalID: 1077994475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 981
+        width: 35
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0165192000479448f377d2f2f872ac
+      internalID: -1081939635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 981
+        width: 64
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1227f6449153eea4c8d8d7fe50c51ff4
+      internalID: 611808013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 981
+        width: 62
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de4c5b22f6b4d8479c28c34d08dbdfe
+      internalID: 116770657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 981
+        width: 64
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc2cefde135764ea9a0c8f2c687eba
+      internalID: 541775499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 982
+        width: 47
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba82c47f79a76814ba56403be59ee354
+      internalID: 1447470217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 982
+        width: 42
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1f1dc015652da419bb3aee7684b5a1
+      internalID: -149526119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 982
+        width: 42
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcc144b8c05d0742945aa8a131ec82e
+      internalID: 1236684412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlankThrow2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 982
+        width: 39
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de627f337d62844cbb5ec70d5970a56
+      internalID: 781514343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 982
+        width: 55
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adbcb9d817b757439418b734ba74fe9
+      internalID: -1011256634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 982
+        width: 44
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ad511b2458fa944b6f770028cfc0ca
+      internalID: 1603717509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 984
+        width: 56
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f084cab93d4af4ea890c1f311cdee6
+      internalID: 1185310780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonGreen1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 911
+        width: 38
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bf513975c752a44a061d398f4842bd
+      internalID: 1155824465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonGreen2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 911
+        width: 54
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b425e67feadaf1f4594967a17e8c3203
+      internalID: 1704541695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonGreen6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 911
+        width: 76
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06691682769936e41bfc6c74eeb3e5a9
+      internalID: 1321555468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonGreen9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 911
+        width: 91
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848894157b8c7914489b677ee7dc35ee
+      internalID: 216989715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 839
+        width: 75
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a120dfd4259515441aaa527f944364eb
+      internalID: -49848604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 839
+        width: 38
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eea91b82991a6845a693f4a6d247666
+      internalID: -774347847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 839
+        width: 54
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b692ec7d2ccac9d448c62966c98080b8
+      internalID: 1084109557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 839
+        width: 54
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecad490474f472048b2d1e57e4f0b075
+      internalID: -1003283121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 839
+        width: 67
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed86e1b4e63838c479a8a7d399ad6722
+      internalID: 610132746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 839
+        width: 76
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77c398a7929dd14ab47368666662007
+      internalID: -1892721744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 839
+        width: 80
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcc2aeb63b0d054f989da359ad6882d
+      internalID: 1010713291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 839
+        width: 90
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2d085ee1237de488f186e6450ce3d1
+      internalID: -592600756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 839
+        width: 91
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f334b2ab2c6d1b44b1112b1c055a5b9
+      internalID: -582599672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 839
+        width: 53
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e226fc3b8f4b08c429c010690a1a734b
+      internalID: 1178473172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRed1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 769
+        width: 38
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139f01e96538c1c48994c6f3d5925810
+      internalID: -803112322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRed3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 769
+        width: 54
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c8f99f8dea2e74491521f9ebed440d
+      internalID: -1125029491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRed4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 768
+        width: 67
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24214a8b799c44a44a3a6e8936ff26f9
+      internalID: -1502187887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CannonRed6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 769
+        width: 76
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa41c92109f41d41b589510c6d5c730
+      internalID: -1589662421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmartGun2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 697
+        width: 60
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f11615a74f65894a8425d9e3ce880af
+      internalID: 1236138611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmartGun3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 697
+        width: 60
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886d9b92bc294f844bb27ac44962cff4
+      internalID: 1219638644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmartGunRed3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 697
+        width: 60
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3dd8f11029d3d49b86c88154e65626
+      internalID: 1476919245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmartGunYellow3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 697
+        width: 60
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134325819303494ea991636de8ab19c
+      internalID: -851121584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmartGunYellow4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 697
+        width: 67
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20031adc2e3e8a64ab2b8297d29f3584
+      internalID: -1365442897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmartGunSilver3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 697
+        width: 60
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f517a15aeb99745a0839e508f0ab7d
+      internalID: -798723120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdgeShot
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 699
+        width: 56
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a81afce87bf8244a90d70fa294b4bf1
+      internalID: -588583172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 634
+        width: 97
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81b87ef00dfbbf4ba3f782cd6470cf5
+      internalID: -1210099163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 634
+        width: 96
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a6c3ffaf5d82f4f81f5e684ad615fc
+      internalID: 1278428888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 634
+        width: 97
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8469074c8dafa419f28e9301c4ecdc
+      internalID: 20830973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 636
+        width: 61
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6089cb4a97adf7d4aacd4a868e315fc2
+      internalID: 144048671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bees1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 636
+        width: 55
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1be79db5e036924196bc4e5c8d43349
+      internalID: 1023648123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscShot1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 563
+        width: 48
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a32b4a54f5a5e1478c2336f54799cc3
+      internalID: 378368446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscShot2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 563
+        width: 48
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7df86dad95b5245a73403a423dcfe2
+      internalID: -1429272206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiscShot3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 563
+        width: 48
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232dd8bd1282e4e439000714b3f2e220
+      internalID: 1056334007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 560
+        width: 51
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52a9b73db77d441a248defc7d1bb59
+      internalID: 954525319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 560
+        width: 49
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e309a6d1b05e88844a4b8c7e3389fda6
+      internalID: -521962352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mace1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 562
+        width: 35
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c0a875e20ddd9489a9f7ca81eb5d5f
+      internalID: 1040440177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mace3
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 562
+        width: 50
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e4aee22e661147be56438592e0142
+      internalID: 1764650414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mace4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 562
+        width: 42
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75f671bdbe25c24da57516a52f26e30
+      internalID: -1626831113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 564
+        width: 45
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e308bed60ef1eea47a7dbb7751d650c8
+      internalID: 1912942080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw2
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 564
+        width: 39
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73210a0f136dcc4b8a3be3ed05ca094
+      internalID: 1270596428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flak5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 494
+        width: 84
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017af9f12f3317c4e9f44cfb68719ef1
+      internalID: 1267827026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flak6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 494
+        width: 83
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550697687d287a740aa3bdc7fbef4c7c
+      internalID: 70726569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowCannonball1
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 493
+        width: 45
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7902e1281179ca441a97adee8854be1f
+      internalID: 1280928319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flak4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 494
+        width: 92
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2646f6eaad47da8439f89a64a3023751
+      internalID: -1113784787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flak1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 494
+        width: 55
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2d3ed9bd39e8143837f3c0a94897b9
+      internalID: -1808702625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flak2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 494
+        width: 63
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a59c9c080c042741ae2a2493400a549
+      internalID: 1172224295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flak3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 494
+        width: 64
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c0e6bf0c16dcb45957aa6a4c513e69
+      internalID: -1383360690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flak7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 494
+        width: 85
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3b748f00d0781459d2657698edbae4
+      internalID: -1932847845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flak8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 494
+        width: 63
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3787da01bef8a9c47809f5defa81dc52
+      internalID: -924832352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 431
+        width: 76
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d344266eaae764d8563b5a0b1f847f
+      internalID: -775899703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 431
+        width: 76
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908946803699ad74fa5c396701fd2455
+      internalID: 1816541165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame2
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 447
+        width: 42
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c9d293cad2f8447ab65e906ca7043c
+      internalID: -1532668499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 447
+        width: 30
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9661e506ca96c429028afa5d1c965c
+      internalID: -321178598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 431
+        width: 50
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d42731a84a87a4ba01779bdfe1bafc
+      internalID: 1633633487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 431
+        width: 50
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fa06eeca1ec7f4abd80f2dba76b0f5
+      internalID: -1359161618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 431
+        width: 48
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6566dbba05f13024da18c706f8276f3c
+      internalID: 508578640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 431
+        width: 80
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89135b39911bb7c4a98b0df3de909a41
+      internalID: -1342313818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 431
+        width: 50
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35afbc4da333ff48a68c9b9f79c7593
+      internalID: 370602560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamethower1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 430
+        width: 53
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31697fe5af80d8c47ab7878730650111
+      internalID: -999603400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldLevel2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 373
+        width: 47
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce320d4a4195bab4a8bad90a36ec5959
+      internalID: -1366097811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldReflect
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 372
+        width: 47
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6373c739d4ea41f41922dc3aa0dd1790
+      internalID: -2006402882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldDown1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 373
+        width: 47
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f9b9820877bb45aeadd01a0c92d07
+      internalID: 188867819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldDown2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 374
+        width: 47
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b30a0d744b5aef4da957ddde3e85676
+      internalID: 1544093015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldDown3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 374
+        width: 47
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65db4c59bd99f941b447472c97a867c
+      internalID: 1460723994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldDown4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 374
+        width: 47
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c88d3e07e142a4fb18e3226ddb1c14
+      internalID: -2104854567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado1
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 375
+        width: 55
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d9e0b740f05842b0e38b1a8866702
+      internalID: 1842978400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 375
+        width: 55
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461408f84209f6e489399cd18218f874
+      internalID: -797956640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado3
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 375
+        width: 54
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1dfc3a126d775409a5f7576af52967
+      internalID: -1102445651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado4
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 375
+        width: 55
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9324269ebe80b845b96a96442f492ef
+      internalID: 64752498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirShot3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 309
+        width: 76
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48543c24f8ebaba4cbae5348bc2ab008
+      internalID: 881263788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowTri-Bomb1
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 305
+        width: 48
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d70d05932208a4d8cc04f41bc418eb
+      internalID: -1425482316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirShot1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 309
+        width: 49
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0460db0ec7b2c7b4888a72151711f840
+      internalID: -323799355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirShot6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 309
+        width: 50
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b17babab142898428ec4ea2f9e255f9
+      internalID: 2071791768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinTurret1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 309
+        width: 61
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a048e0b0fc426db44a92cda7b7522954
+      internalID: 2071837074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 240
+        width: 51
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ad5256817a724197976a5c09a9f93
+      internalID: -1446544615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 240
+        width: 52
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e66288436659ec4e8016150686d4ca9
+      internalID: 522555896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 240
+        width: 54
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f7eefc8328ab948a9c79c92ec510ae
+      internalID: -1028174307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 240
+        width: 52
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effe503cf3f7b5c4ba1c0e9f52dddbe1
+      internalID: 1769375859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 240
+        width: 54
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d981479a68c30489605f3a04af03cb
+      internalID: 842650018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 266
+        width: 45
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec4b7cf50f413d41bfe7f1258e2fde6
+      internalID: -124480342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatling1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 243
+        width: 56
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d00306a7071947a0b0058616a5c8b
+      internalID: 769083136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatling2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 243
+        width: 56
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981bcab150d5e824ebc159e4984cd62e
+      internalID: 228139583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatling3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 243
+        width: 65
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3435fbbb34a59d4f91ca47b460a7a14
+      internalID: 1913320352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatling4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 243
+        width: 64
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971c2707b900f374792a077e6a5a9808
+      internalID: 1839976923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatling5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 243
+        width: 65
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619451640b5cbdd4690207c6a2ff1642
+      internalID: 81703274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRed2
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 241
+        width: 39
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22505151509f1440b430a09a4c496dd
+      internalID: 1343086136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowGreenCansiter2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 164
+        width: 41
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76dc4171ffd3e742a7601485a90fdd1
+      internalID: 1212070798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowBlueCanister1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 165
+        width: 50
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee993da6e0e4824ea4baaca866807e1
+      internalID: -1142279612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowBlueCanister2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 165
+        width: 41
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a38285d4a23fb4d9c6b75c55c0dde4
+      internalID: -146163141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowPurpleCanister1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 166
+        width: 50
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b91bc25db82c14c959afb063fce502
+      internalID: 833292884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowPurpleCanister2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 166
+        width: 41
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df98b63bdd898744b3ecfd1dc1a033b
+      internalID: -587355594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowMeteor2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 164
+        width: 45
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c7f2d2ce534f34a8229a17a10cd4f2
+      internalID: -632617328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowPulserElec2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 166
+        width: 41
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac54c527291bce43a3320dea6d192d4
+      internalID: 1079125418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulserFire1
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 167
+        width: 49
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea4e334e97537148b02ecdaf0a84dd2
+      internalID: -1135655234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowPulserFire2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 167
+        width: 41
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683823a88df0a064cb86f6753cae1e5f
+      internalID: -1951429583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puppet3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 101
+        width: 49
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4552e8f61fa92469253da752bd0fa7
+      internalID: -354005202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 102
+        width: 35
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb435b4329a9f42a4c3b52109109b2
+      internalID: 512339459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 102
+        width: 38
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb79fce0c146d4daa1612e81b35381
+      internalID: -514320028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 102
+        width: 39
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e63781644d784a96f8d627b1bb042
+      internalID: 2050302629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 87
+        width: 64
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb14c1088df94f459b118b4ce2a826c
+      internalID: 662548181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 88
+        width: 52
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169ac9eba3f27804a9ee77ffdfe85e27
+      internalID: 2107375040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningMan
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 27
+        width: 35
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e829af0be51c00e459b378b6eea6c3bf
+      internalID: -1284768069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zUIUndetermined1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 46
+        width: 43
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb7905c25f6ac45a86994e3cba5b3b
+      internalID: 1521936058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zUIUndetermined2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 46
+        width: 43
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b150640dbc9a4487693c692c0ad9e
+      internalID: 388264447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zNum0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 45
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aff88e233d0a542a81782005d9ed72
+      internalID: 949615421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zNum1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 45
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63a66e4e6a0ec84587bcd94d6af8a70
+      internalID: 1833198981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zNum4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 45
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff56727ac16379141a443a17c1fb48d1
+      internalID: 1311416692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zUICritical1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 28
+        width: 43
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3235345958d5aa947979b6655945fb06
+      internalID: 1285497968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zUICritical2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 28
+        width: 43
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e487da12da520cb49bd3887f4755ec4d
+      internalID: -1079771878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zNum7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 28
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788733ebb922342469a09ff84dcca3ce
+      internalID: 1360593802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zNum9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 28
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c322aadc051f8479565f56567714f0
+      internalID: -94083942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowPulserIce1
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 166
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d5ea14898a57443914c7fc93607d6c
+      internalID: 1127091266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 86
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431e9d9d003be1544a7fbaf0384e347f
+      internalID: -1929153443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zUINormal1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 54
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b626a96dc68e294aa7b6ee53dcfeb68
+      internalID: 1831964964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zUINormal2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 54
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d698e59466649084093462ce6d71778e
+      internalID: -303031372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zUIHurt2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 18
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69442650ead3fc74cbb45106b80fffeb
+      internalID: -1902880127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zUIHurt1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 18
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158886a5b4fc5694883d53ed62559501
+      internalID: -1657567940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SmartGun3: 1219638644
+      Sword5: 1447470217
+      Player Sprites_83: 685183098
+      Player Sprites_77: 1912121713
+      Player Sprites_76: 92432099
+      Player Sprites_302: 1636061924
+      Player Sprites_141: -1142279612
+      Player Sprites_72: -1385263296
+      Player Sprites_97: -714269770
+      Player Sprites_299: -851121584
+      Wave3: 1816665014
+      ThrowMeteor1: -582434476
+      Player Sprites_300: 643638438
+      Player Sprites_174: -1853598100
+      ThrowCannonball2: 1417571386
+      Sword1: -1081939635
+      Player Sprites_166: 31767214
+      Player Sprites_265: 1589557855
+      Dark3: -1929153443
+      ShieldDown5: 390310645
+      Player Sprites_278: -748269045
+      Cannon1: -774347847
+      Player Sprites_104: -534783119
+      Plasma2: -1359161618
+      Move3: 1225994961
+      Player Sprites_98: -444506438
+      Player Sprites_196: 1386782940
+      Wave1: 1057183781
+      Player Sprites_212: -1657567940
+      Player Sprites_274: -1284768069
+      DiscShot1: 378368446
+      Mace5: 133209061
+      Gatling1: 769083136
+      Ent1: -404695854
+      Player Sprites_78: -730110032
+      Player Sprites_55: -514320028
+      Wave4: 681861961
+      Throw2: 1270596428
+      Player Sprites_81: -1045344447
+      Flak4: -1113784787
+      Dark4: -1196036086
+      zNum4: 1311416692
+      Player Sprites_103: -539086485
+      BlankThrow2: 781514343
+      CannonGreen9: 216989715
+      TwinTurret1: 2071837074
+      Spark3: -521962352
+      SmartGunRed4: 846941337
+      ThrowGreenCansiter2: 1212070798
+      ThrowBlueCanister1: -1142279612
+      SmartGun2: 1236138611
+      Player Sprites_142: 1564916813
+      Sword6: -149526119
+      Move2: 1292206062
+      Drill3: 20830973
+      Plasma6: -1342313818
+      Sword3: 116770657
+      Tornado1: 1842978400
+      Dark2: 2107375040
+      Plasma7: 370602560
+      zUINormal2: -303031372
+      z3: -514320028
+      Player Sprites_213: -301517503
+      ShieldDown4: -2104854567
+      CannonRed1: -803112322
+      CannonRed2: 1940269674
+      SmartGunSilver4: 1946878111
+      CannonRed9: 1134918754
+      Flame3: -321178598
+      zNum8: -364229884
+      CannonRed10: -1919450200
+      zNum2: 533251081
+      Player Sprites_164: -696758481
+      Damage1: -1664478492
+      Flak3: -1383360690
+      ThrowPurpleCanister1: 833292884
+      CannonGreen5: -1213824816
+      Flak6: 70726569
+      Bees1: 1023648123
+      SmartGun1: -729674939
+      Gatling3: 1913320352
+      zUICritical1: 1285497968
+      Flame2: -1532668499
+      Cannon8: -592600756
+      Player Sprites_249: 431236758
+      Player Sprites_211: 2094044414
+      Player Sprites_175: -2136373454
+      ThrowPulserIce2: 1633324210
+      zNum0: 949615421
+      Player Sprites_157: 936854987
+      Flak2: 1172224295
+      Cannon3: -1003283121
+      Player Sprites_286: -438350122
+      AirShot3: 881263788
+      AirShot4: -900303956
+      Cannon2: 1084109557
+      Player Sprites_101: 1057183781
+      Shoot2: -777529429
+      Plasma4: -775899703
+      ThrowPulserFire2: -1951429583
+      CannonGreen6: 1321555468
+      CannonRed7: 336940191
+      Player Sprites_47: 1713166079
+      Cannon5: -49848604
+      Spark2: 954525319
+      ThrowPulserElec2: 1079125418
+      Throw4: 1603717509
+      Player Sprites_266: 141415023
+      BlankThrow1: -1406401755
+      zNum7: 1360593802
+      Bees2: 2053601307
+      Flame1: 1756398884
+      Puppet3: -354005202
+      Player Sprites_62: -86582099
+      Flamethower2: 1050901349
+      AirShot1: -323799355
+      SmartGunYellow4: -1365442897
+      Arrow: -124480342
+      Player Sprites_206: 236110740
+      SmartGunRed3: 1476919245
+      Player Sprites_79: 1460723994
+      Player Sprites_257: 954525319
+      Player Sprites_303: -192766714
+      Wave2: 748798035
+      Bees3: -1374135456
+      ThrowGreenCanister1: 1520133979
+      FlameMan: 1321857758
+      Player Sprites_294: -1486804607
+      Spark1: -1426896195
+      Shoot5: 1325050938
+      Ent2: -507799639
+      Mace2: -252042938
+      LightningMan: -1284768069
+      CannonGreen3: -1258266886
+      Shoot3: 228876259
+      Cannon9: -582599672
+      Flamethower1: -999603400
+      Player Sprites_256: 568038513
+      ThrowRed1: -830047053
+      Drill1: -1210099163
+      Player Sprites_88: -1562429109
+      Player Sprites_105: -384438688
+      ShieldReflect: -2006402882
+      Player Sprites_277: -1499832110
+      Player Sprites_198: 1578975578
+      Player Sprites_156: -1365442897
+      Damage2: 1077994475
+      Tornado3: -1102445651
+      TwinTurret3: -1728649319
+      DiscShot2: -1429272206
+      zUINormal1: 1831964964
+      ShieldLevel2: -1366097811
+      Tornado4: 64752498
+      Player Sprites_290: -980859155
+      zNum9: -94083942
+      Player Sprites_289: 413933181
+      Tornado2: -797956640
+      CannonRed6: -1589662421
+      zNum3: -875877816
+      Flak1: -1808702625
+      Sword4: 541775499
+      ShieldLevel1: -2009592615
+      Player Sprites_280: -1184228912
+      Player Sprites_85: 1168414863
+      Player Sprites_275: -914055599
+      Throw3: -1011256634
+      Player Sprites_291: -953774655
+      Player Sprites_37: -392109262
+      Player Sprites_53: 1023648123
+      Puppet1: -1906040378
+      Player Sprites_75: -435938005
+      Player Sprites_82: 1438447599
+      Cannon6: -1892721744
+      Player Sprites_284: -1842895094
+      Bow2: 522555896
+      Flak8: -924832352
+      Player Sprites_155: -1091484746
+      Shoot1: -1320944005
+      z4: 2050302629
+      Player Sprites_153: -2104854567
+      Player Sprites_160: 1002535327
+      Player Sprites_163: -862502847
+      Sonic2: -1304076494
+      Player Sprites_50: 168816386
+      Gatling5: 81703274
+      CannonRed3: -1125029491
+      Player Sprites_179: -806523139
+      SmartGunSilver3: -798723120
+      z1: 512339459
+      Plasma1: 1633633487
+      Plasma5: 1816541165
+      Sonic1: 1185310780
+      Player Sprites_292: -62430296
+      ThrowPulserIce1: 1127091266
+      AirShot2: -1771212883
+      Throw1: 1912942080
+      Player Sprites_295: -1021827081
+      Player Sprites_146: -1929153443
+      ThrowRed2: 1343086136
+      Player Sprites_52: 1694330401
+      Puppet2: -1070505330
+      DiscShot3: 1056334007
+      Player Sprites_297: 144048671
+      ThrowPurpleCanister2: -587355594
+      Player Sprites_56: 1443550004
+      Gatling2: 228139583
+      Player Sprites_73: -2045351916
+      Mace3: 1764650414
+      Cannon4: 610132746
+      ShieldDown1: 188867819
+      Sword7: 1236684412
+      WaterMan: -61265694
+      Player Sprites_152: 1365255702
+      Mace1: 1040440177
+      Player Sprites_86: 1184489188
+      ShieldDown3: 1460723994
+      zNum6: 1545294334
+      AirShot5: -760809632
+      TwinTurret2: 1242622730
+      CannonGreen2: 1704541695
+      zUIFocus1: -918812763
+      Player Sprites_288: 20566451
+      Player Sprites_159: 548880487
+      Player Sprites_287: 512339459
+      Player Sprites_87: -1135655234
+      Ent3: 144048671
+      zNum1: 1833198981
+      Player Sprites_147: -1190875345
+      Player Sprites_282: 1127091266
+      zNum5: 821975637
+      Cannon7: 1010713291
+      zUIHurt1: -1657567940
+      Player Sprites_60: -17721755
+      Player Sprites_63: 1311416692
+      z2: -1493285670
+      zUICritical2: -1079771878
+      CannonRed4: -1502187887
+      zUIFocus2: 1925798192
+      Player Sprites_100: -1421806322
+      ShieldLevel3: -1849458896
+      Player Sprites_283: 104994119
+      ShieldDown2: 1544093015
+      Dark1: 662548181
+      Drill2: 1278428888
+      Player Sprites_38: 1077662264
+      Player Sprites_301: 2050302629
+      Flak5: 1267827026
+      Player Sprites_57: 489583947
+      SmartGun4: 48339773
+      Gatling4: 1839976923
+      PulserFire1: -1135655234
+      CannonGreen4: 1390326098
+      Player Sprites_285: 637017150
+      CannonRed5: -1888347372
+      SmartGunYellow3: -851121584
+      Player Sprites_158: -532773740
+      EdgeShot: -588583172
+      Flak7: -1932847845
+      ThrowBlueCanister2: -146163141
+      ThrowTri-Bomb1: -1425482316
+      Player Sprites_102: -1425482316
+      Player Sprites_204: -803112322
+      Plasma3: 508578640
+      Player Sprites_180: 1219638644
+      NatureMan: 1854329124
+      Player Sprites_165: 1868655031
+      Shoot4: 918524990
+      Bow1: -1446544615
+      zUIUndetermined2: 388264447
+      AirShot6: 2071791768
+      Sword2: 611808013
+      Player Sprites_279: -260737517
+      zUIHurt2: -1902880127
+      Bow3: -1028174307
+      Player Sprites_197: 255102002
+      Player Sprites_298: -1549590937
+      Player Sprites_80: -2097306962
+      Move1: 1091660144
+      Mace4: -1626831113
+      Player Sprites_61: 1079125418
+      Cannon10: 1178473172
+      Bow4: 1769375859
+      Bow5: 842650018
+      CannonGreen1: 1155824465
+      CannonRed8: 1020298763
+      CannonGreen7: 1312797349
+      ThrowMeteor2: -632617328
+      Player Sprites_293: 1784080611
+      ThrowCannonball1: 1280928319
+      ThrowPulserElec1: -255241048
+      Player Sprites_54: 480569096
+      Player Sprites_276: -1345846361
+      Player Sprites_296: -1528923593
+      CannonGreen8: 867720905
+      CannonGreen10: 455839507
+      Player Sprites_51: 831194137
+      Player Sprites_48: -1806619105
+      Standing: -1363493727
+      Player Sprites_281: -158164436
+      zUIUndetermined1: 1521936058
+      ShieldDown6: 1975678733
+      ThrowTri-Bomb2: 817681586
+      Player Sprites_58: -1429272206
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
